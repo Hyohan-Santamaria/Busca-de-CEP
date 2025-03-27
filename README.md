@@ -1,2 +1,8 @@
 # Busca-de-CEP
-Criei um sistema que pega qualquer CEP no mundo e te informa os dados dele, utilizei uma api chamada viaCEP para conseguir pegar o CEP. Depois de pegar todos os CEPs que o usuario digitou ele cria uma lista Json de todos os lugares que o usuario digitou
+Criei um sistema que pega qualquer CEP e te informa os dados dele, utilizei uma api chamada viaCEP para conseguir pegar o CEP.
+##
+Alem de conseguir pegar CEP de qualquer lugar este sistema java cria uma lista para o usuario de todos CEP que ele buscou.
+##
+<div>
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+<div>
